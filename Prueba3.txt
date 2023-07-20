@@ -1,1 +1,3 @@
-Prueba3 donde se hace un pull de los cambios añadidos para guardarlos en la carpeta
+Prueba3 donde se hace un pull desde de los cambios añadidos para guardarlos en la carpeta
+
+Acualizacion haciendo push desde git
